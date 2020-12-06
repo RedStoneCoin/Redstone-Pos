@@ -1,10 +1,10 @@
 # RedStone Pos 1.0
 Redstone Proof-of-Stake Smart Contract Token on Ethereum
 
-## What is PoSToken
+## What is Redstone
 Redstone pos 1.0 is an token on eth network until we built our own network from scratch. 
 
-## Specifications of PoSToken
+## Specifications of Redstone
 * **Name**: Redstone
 * **Symbol**: RS
 * **Decimals**: 18
