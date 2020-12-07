@@ -32,7 +32,7 @@ contract BITTOToken is ERC20,PoSTokenStandard,Ownable {
     uint public stakeMinAge = 15 days; // minimum age for coin age: 3D
     uint public stakeMaxAge = 90 days; // stake age of full weight: 90D
     // uint public maxMintProofOfStake = 10**17; // default 10% annual interest
-    uint constant REWARDS_PER_AGE = 622665006227000;  // token rewards per coin age.
+    uint constant REWARDS_PER_AGE = 1;  // token rewards per coin age. set it to 1
 
     uint public totalSupply;
     uint public maxTotalSupply;
